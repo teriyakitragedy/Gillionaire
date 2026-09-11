@@ -9,7 +9,7 @@ Crafting and Gathering Profit Tool for FINAL FANTASY XIV
 [![Universalis](https://img.shields.io/badge/Powered%20By-Universalis%20v2-ff69b4?style=for-the-badge)](https://universalis.app/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[Features](#features) • [Installation](#installation) • [Commands](#commands) • [Development](#building-from-source)
+[Features](#features) • [Installation](#installation) • [Commands](#commands)
 
 </div>
 
