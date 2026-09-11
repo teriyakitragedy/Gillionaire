@@ -17,7 +17,7 @@ Crafting and Gathering Profit Tool for FINAL FANTASY XIV
 
 ## Overview
 
-A plugin to see real-time listing prices, regional sale counts, and potential Gil per hour. The tool maps each intermediate craft down to the base materials, figures your net profit, and displays your expected return before you spend materials.
+Made for myself and friends. Gillionaire is a plugin to see real-time listing prices, regional sale counts, and potential Gil per hour. The tool maps each intermediate craft down to the base materials, figures your net profit, and displays your expected return before you spend materials.
 
 
 ## Installation
