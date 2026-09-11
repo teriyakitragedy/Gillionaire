@@ -1,0 +1,14 @@
+[
+  {
+    "Author": "teriyakitragedy",
+    "Name": "Gillionaire-XIV",
+    "InternalName": "Gillionaire",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Calculates crafting and gathering profit margins using live Universalis market data.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/teriyakitragedy/Gillionaire/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/teriyakitragedy/Gillionaire/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/teriyakitragedy/Gillionaire/releases/latest/download/latest.zip"
+  }
+]
