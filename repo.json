@@ -3,7 +3,7 @@
     "Author": "teriyakitragedy",
     "Name": "Gillionaire-XIV",
     "InternalName": "Gillionaire",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "Calculates crafting and gathering profit margins using live Universalis market data.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
